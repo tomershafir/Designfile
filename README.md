@@ -56,7 +56,7 @@ You should include content and organize it in Designfiles according to the [IEEE
    - Identified stakeholders and design concerns
    - Design viewpoint 1
    - Design view 1
-   …
+   <br>…
    - Design viewpoint n
    - Design view n
    - Design rationale
@@ -97,4 +97,5 @@ Source files contains the code that defines the application. Documentation in so
 - Different Purpose: the purpose of documentation in source files is to express functionalities of sofware components or to mention key notes, differently from the purpose of desing docs.
 - Encapsulation: inclusion of design documentation in source file may expose implementation details and break encapsulation in some level.
 
-## [Example Designfile](https://github.com/tomershafir/designfile/blob/master/Designfile.md)
+## See Also
+- **[Example Designfile](https://github.com/tomershafir/designfile/blob/master/Designfile.md)**
