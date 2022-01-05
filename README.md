@@ -96,6 +96,3 @@ Source files contains the code that defines the application. Documentation in so
 - Messy: documnetation in source files should be short(but informative) to keep the source files readable and clean. Inclusion of design may result in messy source files. 
 - Different Purpose: the purpose of documentation in source files is to express functionalities of sofware components or to mention key notes, differently from the purpose of desing docs.
 - Encapsulation: inclusion of design documentation in source file may expose implementation details and break encapsulation in some level.
-
-## See Also
-- **[Example Designfile](https://github.com/tomershafir/designfile/blob/master/Designfile.md)**
