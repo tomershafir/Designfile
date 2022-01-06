@@ -96,3 +96,16 @@ Source files contains the code that defines the application. Documentation in so
 - Messy: documnetation in source files should be short(but informative) to keep the source files readable and clean. Inclusion of design may result in messy source files. 
 - Different Purpose: the purpose of documentation in source files is to express functionalities of sofware components or to mention key notes, differently from the purpose of desing docs.
 - Encapsulation: inclusion of design documentation in source file may expose implementation details and break encapsulation in some level.
+
+# References
+- [https://www.markdownguide.org/](https://www.markdownguide.org/)
+- [https://people.eecs.berkeley.edu/~kubitron/courses/cs162-F07/design.html](https://people.eecs.berkeley.edu/~kubitron/courses/cs162-F07/design.html)
+- [https://www.industrialempathy.com/posts/design-docs-at-google/](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [https://blog.bit.ai/software-design-document/](https://blog.bit.ai/software-design-document/)
+- [https://www.range.co/blog/better-tech-specs](https://www.range.co/blog/better-tech-specs)
+- [http://cengproject.cankaya.edu.tr/wp-content/uploads/sites/10/2017/12/SDD-ieee-1016-2009.pdf](http://cengproject.cankaya.edu.tr/wp-content/uploads/sites/10/2017/12/SDD-ieee-1016-2009.pdf)
+- [https://en.wikipedia.org/wiki/Software_design_description#cite_note-4](https://en.wikipedia.org/wiki/Software_design_description#cite_note-4)
+- [https://en.wikipedia.org/wiki/README](https://en.wikipedia.org/wiki/README)
+- [https://www.oreilly.com/library/view/c-cookbook/0596007612/ch01s19.html](https://www.oreilly.com/library/view/c-cookbook/0596007612/ch01s19.html)
+- [https://ieeexplore.ieee.org/document/5167255](https://ieeexplore.ieee.org/document/5167255)
+- [https://www.gnu.org/software/make/manual/make.html](https://www.gnu.org/software/make/manual/make.html)
