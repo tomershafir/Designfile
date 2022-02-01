@@ -2,7 +2,7 @@
 
 ## Intent
 
-Designfile method suggests to write system architecture, high-level or detailed design documents (when appropriate) according to a set of standards and store them as part of the project files, using [IEEE-1016-2009-SDD's](https://ieeexplore.ieee.org/document/5167255) description of content and organization.
+Designfile method suggests to write system architecture, high-level or detailed design documents (when appropriate) and store them as part of the project files, using [IEEE-1016-2009-SDD's](https://ieeexplore.ieee.org/document/5167255) description of content and organization, entirely or partially.
 
 ## Motivation
 
