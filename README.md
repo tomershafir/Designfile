@@ -2,7 +2,7 @@
 
 ## Intent
 
-Designfile method suggests to write system architecture, high-level or detailed design documents (when appropriate) and store them as part of the project files, using [IEEE-1016-2009-SDD's](https://ieeexplore.ieee.org/document/5167255) description of content and organization, entirely or partially.
+Designfile method is relevant to non open source projects, becuase in open source projects it due to a collision of 2 key considerations: security and collaboration. It suggests to write system architecture, high-level or detailed design documents (when appropriate) and store them as part of the project files, using [IEEE-1016-2009-SDD's](https://ieeexplore.ieee.org/document/5167255) description of content and organization, entirely or partially.
 
 ## Motivation
 
@@ -98,7 +98,6 @@ You should include content and organize it in Designfiles according to the [IEEE
 - Writing Is Hard
 - Components Management and Maintenance Overhead: you now need to manage and maintain additional components - the Designfiles
 - Storage Overhead
-- Open Source: security may be compromised, because hackers can more easily detect vulnerabilities by reading Designfiles. If Designfiles are not checked into the SCM in an open-source project, then there is no version control and collaboration is difficult
 - Clutter
 - Embracement of Non Proficients: people who can't understand the code without additional documentation are probably not technically proficient for the job, and the design documentation allows such people to collaborate and possibly damage the project
 
@@ -116,4 +115,3 @@ Source files contains the code that defines the application. Documentation in so
 
 - Messy: documnetation in source files should be short(but informative) to keep the source files readable and clean. Inclusion of design may result in messy source files.
 - Different Purpose: the purpose of documentation in source files is to express functionalities of sofware components or to mention key notes, differently from the purpose of design docs.
-- Encapsulation: inclusion of design documentation in source file may expose implementation details and break encapsulation at some level.
